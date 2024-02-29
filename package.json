@@ -1,13 +1,20 @@
 {
   "name": "tiktokapi-src",
-  "version": "1.0.0-a",
+  "version": "1.0.1",
   "description": "unofficial tiktok api",
-  "main": "./dist/index.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/wahdalo/tiktokapi-src"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
 }
