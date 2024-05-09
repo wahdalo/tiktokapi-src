@@ -1,0 +1,10 @@
+export declare const _tiktokurl: string;
+export declare const _tiktokapi: (params: any) => string;
+export declare const _tiktokSearchUserFull: (params: any) => string;
+export declare const _tiktokSearchVideoFull: (params: any) => string;
+export declare const _tiktokGetPosts: (params: any) => string;
+export declare const _ssstikurl: string;
+export declare const _ssstikapi: string;
+export declare const _musicaldownurl: string;
+export declare const _musicaldownapi: string;
+export declare const _musicaldownmusicapi: string;
